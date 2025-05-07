@@ -13,6 +13,19 @@
 - **Firestore**: Para persistência dos dados dos chamados.
 - **React Icons**: Para ícones na interface.
 
+### Gerenciamento de Chamados
+
+<img src="public/images/tela_entrada.png" alt="Tela de login" width="600" />
+<img src="public/images/tela_criacao_conta.png" alt="Tela de criação de conta de usuário" width="600" />
+<img src="public/images/tela_dashboard.png" alt="Tela de chamados" width="600" />
+<img src="public/images/tela_detalhe_chamado.png" alt="Tela de detalhe de chamado" width="600" />
+<img src="public/images/tela_editando_chamado.png" alt="Tela editando chamado" width="600" />
+<img src="public/images/tela_cadastrar_cliente.png" alt="Tela cadastrar cliente" width="600" />
+<img src="public/images/tela_novo_chamado.png" alt="Tela novo chamado" width="600" />
+<img src="public/images/tela_perfil_usuario_logado.png" alt="Tela perfil do usuário" width="600" />
+
+
+
 ## Instalação
 
 1. Clone o repositório:
