@@ -46,6 +46,8 @@
 - **Abertura de Chamados**: Usuários logados podem abrir chamados técnicos, de suporte e financeiros.
 - **Gerenciamento de Chamados**: Usuários logados podem atualizar o status de cada chamado.
 - **Visualização Detalhada**: Exibição dos chamados completos em uma janela modal.
+- **Tela Perfil Usuário**: Exibição das informações do usuário logado, e possibilidade de alteração dos dados.
+- **Tela Cadastro de Cliente -Empresa**: Cadastrar empresas com cnpj e endereço.
 
 ## Contribuição
 
