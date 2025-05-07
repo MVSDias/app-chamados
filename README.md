@@ -3,7 +3,16 @@
 
 **App Chamados** é uma aplicação que permite às empresas cadastradar e gerenciar chamados técnicos, de suporte e financeiro. O usuário pode abrir, atualizar o status dos chamados e visualizar os detalhes completos de cada chamado em uma janela modal.
 
-## Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
+
+ <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50px"/> 
+<img align="center" src="https://github.com/MVSDias/devburger-interface/blob/main/images/vite.jpg?raw=true" width="50px"/>
+<img src="https://github.com/MVSDias/devburger-interface/blob/main/images/react.png?raw=true" width="50px"/>
+<img src="https://github.com/MVSDias/devburger-interface/blob/main/images/eslint.png?raw=true" width="50px"/>
+<img src="https://github.com/MVSDias/devburger-interface/blob/main/images/react-router-dom.png?raw=true" width="50px"/>
+<img src="https://github.com/MVSDias/devburger-interface/blob/main/images/toastfy.png?raw=true" width="50px"/>
 
 - **TypeScript**: Para garantir tipagem estática e segurança no código.
 - **React**: Framework para criar a interface de usuário.
