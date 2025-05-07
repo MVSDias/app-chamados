@@ -1,0 +1,103 @@
+.container {
+  display: flex;
+  background-color: #f8f8f8;
+  border-radius: 5px;
+  padding: 0.8em;
+  align-items: center;
+  margin-bottom: 1em;
+  width: 100%;
+ 
+  
+
+}
+
+.label-avatar {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 280px;
+  height: 280px;
+}
+
+.label-avatar input {
+  display: none;
+}
+.label-avatar span {
+  position: absolute;
+  z-index: 99;
+  opacity: 0.7;
+  transition: all 0.5s;
+}
+
+.label-avatar span:hover {
+  opacity: 1;
+  transform: scale(1.4);
+}
+
+.form-profile {
+  max-width: 600px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.form-profile img {
+  margin-bottom: 1em;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  
+}
+
+.form-profile label {
+  margin-bottom: 0.5em;
+  font-size: 1.4em;
+}
+
+.form-profile input, textarea, select {
+  padding: 0.7em;
+  margin-bottom: 1em;
+  border-radius: 5px;
+  border: none;
+  max-width: 600px;
+}
+.form-profile input:disabled {
+  cursor: not-allowed;
+}
+
+.form-profile button {
+
+  height: 45px;
+  background-color: #121212;
+  color: #fff;
+  cursor: pointer;
+  margin-top: 10px;
+  border-radius: 8px;
+  transition: all 0.4s;
+}
+
+button:hover {
+  background-color: #fff;
+  color: #121212;
+}
+
+.label-nome {
+  margin-top: 20px;
+}
+
+
+.btn-logout {
+  font-size: 1.5em;
+  padding: 8px 20px;
+  background-color: transparent;
+  border-radius: 8px;
+  transition: all 0.4s;
+}
+
+.btn-logout:hover {
+  background-color: #121212;
+  color: #fff;
+}
