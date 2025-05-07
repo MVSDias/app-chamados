@@ -10,7 +10,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50px"/> 
 <img src="public/images/typescriptIcon.png" alt="Typescript logo" width="60" />
 <img src="public/images/react.svg" alt="Icone react" width="60" />
-<img src="https://github.com/MVSDias/devburger-interface/blob/main/images/toastfy.png?raw=true" width="50px"/>
+<img src="https://github.com/MVSDias/devburger-interface/blob/main/images/toastfy.png?raw=true" width="100px"/>
 
 
 - **TypeScript**: Para garantir tipagem estática e segurança no código.
